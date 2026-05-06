@@ -1,9 +1,7 @@
 # chat-Messanger-with-Log-Facility
 A real-time chat application using TCP sockets with timestamp-based message logging functionality.
 
-# Chat Messenger with Log Facility
-
-## 📌 Project Overview
+## Project Overview
 Chat Messenger with Log Facility is a simple client-server based chatting application developed using Java Socket Programming. The project demonstrates real-time communication between a server and a client over a network using TCP sockets.
 
 This application allows:
@@ -21,7 +19,7 @@ The project is useful for understanding:
 
 ---
 
-# 🚀 Features
+# Features
 - Real-time chat between client and server
 - Server waits for incoming client connections
 - Continuous communication until client exits
@@ -31,7 +29,7 @@ The project is useful for understanding:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 - Java
 - Socket Programming
 - TCP/IP Networking
@@ -41,7 +39,7 @@ The project is useful for understanding:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 ChatMessenger/
@@ -53,7 +51,7 @@ ChatMessenger/
 
 ---
 
-# ⚙️ How It Works
+# How It Works
 
 ## Server Side
 - Creates a `ServerSocket` on port `5100`
@@ -70,7 +68,7 @@ ChatMessenger/
 
 ---
 
-# ▶️ How to Run the Project
+# How to Run the Project
 
 ## Step 1: Compile the Files
 
@@ -111,7 +109,7 @@ Client gets connected with server successfully
 
 ---
 
-# 💬 Sample Chat
+# Sample Chat
 
 ## Client
 
@@ -140,7 +138,7 @@ Server says : Hello Client
 
 ---
 
-# 🧠 Concepts Used
+# Concepts Used
 
 - Client-Server Communication
 - Java Networking API
@@ -152,7 +150,7 @@ Server says : Hello Client
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 Through this project, you can learn:
 - How network communication works in Java
 - How sockets establish connections
@@ -162,7 +160,7 @@ Through this project, you can learn:
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 - GUI-based chat application using Java Swing/JavaFX
 - Multi-client support
 - Chat history storage
@@ -172,5 +170,5 @@ Through this project, you can learn:
 
 ---
 
-# 👨‍💻 Author
+# Author
 Developed by Diksha Vispute as a networking and Java socket programming project.
